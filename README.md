@@ -1,6 +1,6 @@
-#🌾 Garden keeper — Agricultural Data Engineering
+# 🌾 Garden keeper — Agricultural Data Engineering
 
-##📌 Description
+## 📌 Description
 
 `Garden keeper` is an algorithmic and reliability-focused project in Python centered on mastering exception handling and fault-tolerant data pipelines. The goal is to build a robust agricultural monitoring system that evolves from basic input validation to resilient, production-like data workflows.
 
