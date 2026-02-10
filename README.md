@@ -1,4 +1,4 @@
-# 🌾 Garden keeper — Agricultural Data Engineering
+# 👨‍🌾 Garden keeper — Agricultural Data Engineering
 
 ## 📌 Description
 
@@ -8,7 +8,7 @@ This project challenges your ability to manage real-world failure scenarios, pro
 
 ---
 
-## 🛠️ Skills Developed
+## ⛏ Skills Developed
 
 - **Exception Handling:** Use of `try`, `except`, `finally`, and `raise`.
 - **Data Integrity & Validation:** Protecting agricultural data through validation and error control.
@@ -19,7 +19,7 @@ This project challenges your ability to manage real-world failure scenarios, pro
 
 ---
 
-## 🌳 Project Roadmap
+## 🌾 Project Roadmap
 - **ex0: Data Validation Intro** – Input validation and basic exception handling.
 - **ex1: Error Classification** – Handling multiple built-in Python error types.
 - **ex2: Custom Errors** – Designing domain-specific exception classes.
@@ -27,7 +27,7 @@ This project challenges your ability to manage real-world failure scenarios, pro
 - **ex4: Error Raising** – Detecting invalid states and raising explicit errors.
 - **ex5: Garden Management System** – Integrating all error-handling concepts into a unified system.
 
-## ⚙️ Execution
+## 🐛 Execution
 
 Each exercise is self-contained and must be executed from its respective directory:
 
